@@ -1,9 +1,7 @@
 module.exports = {
-    theme: {
-        fill: {
-            current: 'orange',
-        }
-    },
-    variants: {},
-    plugins: [],
-  }
+  theme: {
+    extend: {},
+  },
+  variants: {},
+  plugins: [],
+}
